@@ -30,4 +30,4 @@ pillow
 retinaface-py
 sentencepiece
 termcolor
-transformers==4.48.0
+transformers==4.50.0
