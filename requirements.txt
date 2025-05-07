@@ -31,3 +31,4 @@ retinaface-py
 sentencepiece
 termcolor
 transformers==4.48.0
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
